@@ -30,4 +30,9 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+    'movie_db' => [
+        'base_url' => 'https://api.themoviedb.org/3',
+        'token' => env('MOVIE_DB_TOKEN'),
+    ],
+
 ];

@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="85271aef-d21b-47d5-9e29-2c9947c76f36" name="Default Changelist" comment="" />
+    <list default="true" id="85271aef-d21b-47d5-9e29-2c9947c76f36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ViewMoviesTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +36,20 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="movie-app.test" id="fbdf39b0-b49e-44d7-9ea2-32aca5c5b500" name="movie-app.test" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/home/vagrant/code/movie-app" />
+          <mapping local-root="$PROJECT_DIR$/public" remote-root="/home/vagrant/code/movie-app/public" />
+        </path_mappings>
+      </server>
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -161,16 +201,106 @@
       <workItem from="1604613117678" duration="8125000" />
       <workItem from="1605212180239" duration="7788000" />
       <workItem from="1605221022163" duration="361000" />
+      <workItem from="1605559631033" duration="299000" />
+      <workItem from="1605559982506" duration="117000" />
+      <workItem from="1605624222451" duration="1209000" />
+      <workItem from="1605646008972" duration="1384000" />
+      <workItem from="1605647654420" duration="4153000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="913" y="321" width="670" height="676" key="search.everywhere.popup" timestamp="1605219874046">
-      <screen x="0" y="23" width="2560" height="1337" />
+    <state x="229" y="307" key="#Servers" timestamp="1605647644653">
+      <screen x="0" y="25" width="2560" height="1330" />
     </state>
+    <state x="229" y="307" key="#Servers/0.25.2560.1330@0.25.2560.1330" timestamp="1605647644653" />
+    <state x="410" y="312" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605651203147">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state x="410" y="312" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.2560.1330@0.25.2560.1330" timestamp="1605651203147" />
+    <state width="1132" height="410" key="GridCell.Tab.0.bottom" timestamp="1605647688134">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.0.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688134" />
+    <state width="1132" height="410" key="GridCell.Tab.0.center" timestamp="1605647688133">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.0.center/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688133" />
+    <state width="1132" height="410" key="GridCell.Tab.0.left" timestamp="1605647688132">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.0.left/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688132" />
+    <state width="1132" height="410" key="GridCell.Tab.0.right" timestamp="1605647688133">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.0.right/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688133" />
+    <state width="1132" height="410" key="GridCell.Tab.1.bottom" timestamp="1605647688135">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.1.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688135" />
+    <state width="1132" height="410" key="GridCell.Tab.1.center" timestamp="1605647688134">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.1.center/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688134" />
+    <state width="1132" height="410" key="GridCell.Tab.1.left" timestamp="1605647688134">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.1.left/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688134" />
+    <state width="1132" height="410" key="GridCell.Tab.1.right" timestamp="1605647688134">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.1.right/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688134" />
+    <state width="1132" height="410" key="GridCell.Tab.2.bottom" timestamp="1605647688136">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.2.bottom/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688136" />
+    <state width="1132" height="410" key="GridCell.Tab.2.center" timestamp="1605647688135">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.2.center/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688135" />
+    <state width="1132" height="410" key="GridCell.Tab.2.left" timestamp="1605647688135">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.2.left/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688135" />
+    <state width="1132" height="410" key="GridCell.Tab.2.right" timestamp="1605647688135">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state width="1132" height="410" key="GridCell.Tab.2.right/0.25.2560.1330@0.25.2560.1330" timestamp="1605647688135" />
+    <state x="155" y="152" width="2187" height="993" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605559978929">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state x="155" y="152" width="2187" height="993" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.2560.1330@0.25.2560.1330" timestamp="1605559978929" />
+    <state x="913" y="321" width="670" height="673" key="search.everywhere.popup" timestamp="1605646295355">
+      <screen x="0" y="25" width="2560" height="1330" />
+    </state>
+    <state x="913" y="321" width="670" height="673" key="search.everywhere.popup/0.25.2560.1330@0.25.2560.1330" timestamp="1605646295355" />
     <state x="913" y="321" width="670" height="676" key="search.everywhere.popup/2560.23.1920.1057/0.23.2560.1337@0.23.2560.1337" timestamp="1605219874046" />
+    <state x="913" y="321" width="670" height="673" key="search.everywhere.popup/2560.25.1920.1055/0.25.2560.1330@0.25.2560.1330" timestamp="1605624295754" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/Feature/ViewMoviesTest.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
